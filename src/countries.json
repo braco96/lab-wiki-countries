@@ -1,0 +1,26 @@
+[
+  {
+    "alpha3Code": "FRA",
+    "alpha2Code": "FR",
+    "name": { "common": "France" },
+    "capital": ["Paris"],
+    "area": 551695,
+    "borders": ["ESP", "DEU", "ITA", "BEL"]
+  },
+  {
+    "alpha3Code": "ESP",
+    "alpha2Code": "ES",
+    "name": { "common": "Spain" },
+    "capital": ["Madrid"],
+    "area": 505990,
+    "borders": ["PRT", "FRA"]
+  },
+  {
+    "alpha3Code": "DEU",
+    "alpha2Code": "DE",
+    "name": { "common": "Germany" },
+    "capital": ["Berlin"],
+    "area": 357386,
+    "borders": ["FRA", "POL"]
+  }
+]
